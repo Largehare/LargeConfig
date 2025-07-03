@@ -7,6 +7,7 @@
 - **Nerd Font**
 
 ## Zsh Plugins
+- fzf
 - **zsh-syntax-highlighting**
 - **zsh-autosuggestions**
 
